@@ -1,4 +1,5 @@
 # Intrusive ROM for inverse search problems
+Part of course work on data driven methods for complex aerospace systems, Intrusive ROM's were explored on coupling two PDE's, and handling non-homogenous boundary conditions.
 ## Aim
 To understand how effective is Reduced order models for inverse search through gradient free optimization
 ## Objectives
